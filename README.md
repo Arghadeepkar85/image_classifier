@@ -89,7 +89,7 @@ print("Predicted Class:", class_names[np.argmax(prediction)])
 ## 📌 Requirements
 
 - Python 3.x  
-- TensorFlow / Keras  
+- TensorFlow  /  Keras  
 - NumPy  
 - Matplotlib  
 - OpenCV (for custom image testing)  
